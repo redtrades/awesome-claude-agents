@@ -51,7 +51,7 @@ cp -r awesome-claude-agents/agents ~/.claude/agents/awesome-claude-agents
 ### 2. Verify Installation
 ```bash
 claude /agents
-# Should show all 24 agents.
+# Should show all 45 agents.
 ```
 
 ### 3. Initialize Your Project
@@ -119,7 +119,38 @@ The @agent-team-configurator automatically sets up your perfect AI development t
 - **[Performance Optimizer](agents/core/performance-optimizer.md)** - Identifies bottlenecks and applies optimizations for scalable systems
 - **[Documentation Specialist](agents/core/documentation-specialist.md)** - Crafts comprehensive READMEs, API specs, and technical documentation
 
-**Total: 24 specialized agents** working together to build your projects!
+### 🧠 Product Innovation Agents (21 agents)
+Each agent provides domain-specific deliverables and best-practice guidance for AI innovation.
+
+- **Strategic & Coordination**
+  - **[Innovation Lead](agents/product-innovation/innovation-lead.md)** – Coordinates AI exploration and prioritization
+  - **[Stakeholder Liaison](agents/product-innovation/stakeholder-liaison.md)** – Keeps teams aligned
+  - **[Customer Collaboration](agents/product-innovation/customer-collaboration.md)** – Manages customer interviews and feedback
+- **Governance & Legal**
+  - **[Risk & Governance](agents/product-innovation/risk-governance.md)** – Runs policy and risk reviews
+  - **[Security & Privacy](agents/product-innovation/security-privacy.md)** – Ensures data protection
+  - **[Legal & Compliance](agents/product-innovation/legal-compliance.md)** – Handles legal approvals
+- **Product & Architecture**
+  - **[Product Owner](agents/product-innovation/product-owner.md)** – Crafts requirements and backlog
+  - **[Business Owner](agents/product-innovation/business-owner.md)** – Validates ROI and strategy
+  - **[Architecture & Integration](agents/product-innovation/architecture-integration.md)** – Aligns with enterprise architecture
+- **Technical Development**
+  - **[Data Pipeline](agents/product-innovation/data-pipeline.md)** – Builds and validates data flows
+  - **[Model Research & Experimentation](agents/product-innovation/model-research-experimentation.md)** – Tests and compares models
+  - **[AI Workflow Orchestrator](agents/product-innovation/ai-workflow-orchestrator.md)** – Automates training and deployment pipelines
+  - **[DevOps & Deployment](agents/product-innovation/devops-deployment.md)** – Manages CI/CD and releases
+  - **[Testing & QA](agents/product-innovation/testing-qa.md)** – Validates code and model quality
+  - **[Monitoring & Feedback](agents/product-innovation/monitoring-feedback.md)** – Tracks production performance
+- **Customer Research**
+  - **[Customer Interview](agents/product-innovation/customer-interview.md)** – Conducts interviews
+  - **[Market Analysis](agents/product-innovation/market-analysis.md)** – Studies market trends
+  - **[Persona & Journey Mapper](agents/product-innovation/persona-journey-mapper.md)** – Creates personas and journeys
+- **Integration & Output**
+  - **[Documentation & Knowledge Manager](agents/product-innovation/documentation-knowledge-manager.md)** – Maintains project knowledge
+  - **[Change Management & Training](agents/product-innovation/change-management-training.md)** – Drives adoption
+  - **[Executive Reporting](agents/product-innovation/executive-reporting.md)** – Summarizes progress for leadership
+
+**Total: 45 specialized agents** working together to build your projects!
 
 [Browse all agents →](agents/)
 
